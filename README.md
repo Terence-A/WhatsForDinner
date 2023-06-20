@@ -62,7 +62,7 @@ THEN I go to home page
 
 The following links lead to github repository with the project and application live URL.
 
-https://github.com/vikramadityad/WhatsforDinner
+live url: https://terence-a.github.io/WhatsForDinner/
 
 
 ## Built With:
