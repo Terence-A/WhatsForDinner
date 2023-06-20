@@ -64,6 +64,8 @@ The following links lead to github repository with the project and application l
 
 live url: https://terence-a.github.io/WhatsForDinner/
 
+github repo: https://github.com/Terence-A/WhatsForDinner
+
 
 ## Built With:
 HTML & CSS, 
